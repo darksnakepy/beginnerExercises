@@ -11,7 +11,8 @@ for _ in range(6):
         if dot < 5:
           mac_addr += ":"
           dot += 1
-          print("mac address: ", mac_addr)
-          input()
+            
+print("mac address: ", mac_addr)
+input()
 
 
